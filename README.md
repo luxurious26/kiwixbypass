@@ -7,6 +7,6 @@ You can get the latest version without using that **bootstraper** but you first 
 List of **methods**:
 * [Method 1 - HTTP Debugger](https://github.com/luxurious26/kiwixbypass/tree/main/Method%201)
 
-**Demonstration**: soon
+**Demonstration**: https://www.youtube.com/watch?v=1P2J1zIpwXQ
 
 **Status Bypass**: Working if you use Method 1 ✔ (12/18/2021)
