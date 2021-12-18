@@ -8,4 +8,5 @@ List of **methods**:
 * [Method 1 - HTTP Debugger](https://github.com/luxurious26/kiwixbypass/tree/main/Method%201)
 
 **Demonstration**: soon
+
 **Status Bypass**: Working if you use Method 1 ✔ (12/18/2021)
